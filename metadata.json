@@ -1,0 +1,6 @@
+{
+  "name": "Quiet Designer Portfolio",
+  "description": "A serene, high-end personal portfolio website for visual designers with soft interactive cloud particles, elegant frosted glass layouts, and peaceful ASMR ambient soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
